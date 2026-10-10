@@ -26,7 +26,7 @@ export function Achievements() {
       title: "Academic Excellence",
       organization: "National Institute of Technology Uttarakhand",
       description:
-        "Maintained a CGPA of 9.27/10 in Computer Science and Engineering.",
+        "Maintained a CGPA of 9.31/10 in Computer Science and Engineering.",
       icon: GraduationCap,
       color: "from-green-400 to-teal-500",
     },
@@ -35,7 +35,7 @@ export function Achievements() {
   const stats = [
     { value: "400+", label: "LeetCode Problems" },
     { value: "150+", label: "Coding Ninjas Problems" },
-    { value: "9.27", label: "CGPA / 10" },
+    { value: "9.31", label: "CGPA / 10" },
     { value: "97%", label: "Senior Secondary Score" },
   ];
 
