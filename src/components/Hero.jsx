@@ -47,7 +47,7 @@ export function Hero() {
               transition={{ delay: 0.4 }}
             >
               <h2 className="text-2xl sm:text-3xl text-muted-foreground">
-                Computer Science Engineer & AI Builder
+                Computer Science Engineer 
               </h2>
             </motion.div>
 
@@ -57,7 +57,7 @@ export function Hero() {
               transition={{ delay: 0.5 }}
               className="text-lg text-muted-foreground max-w-xl"
             >
-              B.Tech CSE student at NIT Uttarakhand with a 9.27 CGPA, building full-stack products and exploring Agentic AI, RAG, and large-scale graph analytics.
+              B.Tech CSE student at NIT Uttarakhand with a 9.31 CGPA, building full-stack projects and exploring Agentic AI, RAG, and langchain.
             </motion.p>
 
             {/* Social Links */}
